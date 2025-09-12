@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Your+Name;Informatics+Student+%7C+Tech+Enthusiast;Always+learning+new+things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Satrio+Wisnu+Adi+Pratama;Informatics+Student+%7C+Tech+Enthusiast;Always+learning+new+things+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,19 +23,19 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight&hide_border=false" alt="streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=flywithsaturn&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=flywithsaturn&theme=tokyonight&hide_border=false" alt="streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flywithsaturn&layout=compact&theme=tokyonight" alt="top-langs" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=flywithsaturn&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
