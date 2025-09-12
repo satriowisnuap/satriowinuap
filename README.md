@@ -6,11 +6,11 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Student of **Informatics Engineering**
-- 💻 Passionate about **Web Development & Networking**
-- 📚 Currently learning **Laravel, React, and DevOps**
-- ✨ Interested in **Open Source** and **Cloud Computing**
-- ☕ Fun fact: I can’t code without coffee!
+- 🎓 Informatics Engineering student at **State Polytechnic of Malang**
+- 💻 Passionate about building **Web Applications, Mobile Apps, and Data-driven solutions**
+- 📚 Hands-on experience with frameworks like **Laravel** and **Flutter**
+- ✨ Curious about **Open Source** and always eager to learn modern technologies
+- 🏔️ Adventure enthusiast who loves **hiking the mountains** and **exploring the ocean through diving**
 
 ---
 
