@@ -16,27 +16,16 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,mysql,git,github,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,react,nodejs,mysql,git,github,linux,vscode&perline=6" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flywithsaturn&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=flywithsaturn&theme=tokyonight&hide_border=false" alt="streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flywithsaturn&layout=compact&theme=tokyonight" alt="top-langs" />
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=flywithsaturn&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+<div align="center">
+  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=flywithsaturn&theme=transparent" alt="flywithsaturn" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flywithsaturn&show_icons=true&locale=en&layout=compact&theme=transparent" alt="flywithsaturn"/>
+</div>
 
 ---
 
