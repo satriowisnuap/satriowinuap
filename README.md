@@ -14,13 +14,6 @@
 
 ---
 
-## 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,flutter,react,nodejs,mysql,git,github,linux,vscode&perline=6" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
   <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=flywithsaturn&theme=transparent" alt="flywithsaturn" />
@@ -41,4 +34,3 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
