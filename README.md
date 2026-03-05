@@ -16,8 +16,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=flywithsaturn&theme=transparent" alt="flywithsaturn" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flywithsaturn&show_icons=true&locale=en&layout=compact&theme=transparent" alt="flywithsaturn"/>
+  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=flywithsaturn&theme=transparent" alt="satriowisnuap" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satriowisnuap&show_icons=true&locale=en&layout=compact&theme=transparent" alt="satriowisnuap"/>
 </div>
 
 ---
