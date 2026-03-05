@@ -15,9 +15,17 @@
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=satriowisnuap&theme=transparent" alt="satriowisnuap" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satriowisnuap&show_icons=true&locale=en&layout=compact&theme=transparent" alt="satriowisnuap"/>
+
+<a href="https://github.com/satriowisnuap">
+  <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=satriowisnuap&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/satriowisnuap">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriowisnuap&layout=compact&theme=transparent&hide_border=true" />
+</a>
+
 </div>
 
 ---
