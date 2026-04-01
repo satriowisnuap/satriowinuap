@@ -8,7 +8,7 @@
 ## 🌟 About Me
 - 🎓 Informatics Engineering student at **State Polytechnic of Malang**
 - 💻 Passionate about building **Web Applications, Mobile Apps, and Network**
-- 📚 Experience with **Laravel** and **Flutter**
+- 📚 Experience with **Laravel**,**Flutter**,**NextJs**
 - ✨ Interested in **Open Source & Modern Technologies**
 - 🏔️ Love **Hiking Mountains** and **Ocean Diving**
 
